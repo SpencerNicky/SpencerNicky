@@ -4,7 +4,10 @@
   <img src="https://media.giphy.com/media/PNWEY2TLI7x6tktvQe/giphy.gif" width="200px" height="200px">
   <img src="https://media.giphy.com/media/HqoGyd9OIi3uYBkd10/giphy.gif" width="200px" height="200px">
   <img src="https://media.giphy.com/media/BBKevBJX1fkvam9rrW/giphy.gif" width="200px" height="200px">
-  </div>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&theme=radical" alt="Top Langs">
+</div>
 
 <!--
 **SpencerNicky/SpencerNicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
