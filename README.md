@@ -9,8 +9,7 @@
 ---
 
 ### My Stats:
-
-[snicky's 42 stats](https://badge42.vercel.app/api/v2/cl4sfipmq002909k20uryn4lc/stats?cursusId=21&coalitionId=101)
+![snicky's 42 stats](https://badge42.vercel.app/api/v2/cl4sfipmq002909k20uryn4lc/stats?cursusId=21&coalitionId=101)
 <!--<div>
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4sfipmq002909k20uryn4lc/stats?cursusId=21&coalitionId=101" alt="snicky's 42 stats" /></a>
 </div>
