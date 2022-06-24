@@ -5,9 +5,7 @@
   <img src="https://media.giphy.com/media/HqoGyd9OIi3uYBkd10/giphy.gif" width="200px" height="200px">
   <img src="https://media.giphy.com/media/BBKevBJX1fkvam9rrW/giphy.gif" width="200px" height="200px">
 </div>
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)]
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerNicky&layout=compact&theme=vision-friendly-dark)]
 
 <!--
 **SpencerNicky/SpencerNicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
