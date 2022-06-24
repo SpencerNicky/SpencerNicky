@@ -2,7 +2,7 @@
 -->
 <div>
   <img src="https://media.giphy.com/media/PNWEY2TLI7x6tktvQe/giphy.gif">
-  <img src="https://media.giphy.com/media/PNWEY2TLI7x6tktvQe/giphy.gif">
+  <img src="https://media.giphy.com/media/HqoGyd9OIi3uYBkd10/giphy.gif">
   </div>
 
 <!--
