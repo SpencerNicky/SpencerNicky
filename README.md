@@ -5,8 +5,14 @@
   <img src="https://media.giphy.com/media/HqoGyd9OIi3uYBkd10/giphy.gif" width="200px" height="200px">
   <img src="https://media.giphy.com/media/BBKevBJX1fkvam9rrW/giphy.gif" width="200px" height="200px">
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerNicky&layout=compact&theme=vision-friendly-dark)]
-(https://github.com/anuraghazra/github-readme-stats)
+### 🔥 &nbsp; My Stats :
+[![snicky's 42 stats](https://badge42.vercel.app/api/v2/cl4sfipmq002909k20uryn4lc/stats?cursusId=21&coalitionId=101)](https://github.com/JaeSeoKim/badge42)
+
+
+
+
+
+
 <!--
 **SpencerNicky/SpencerNicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
