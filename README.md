@@ -7,7 +7,7 @@
 </div>
 
 ---
-### 👨‍💻_technologist: &nbsp;About Me :
+### 👨‍💻 &nbsp;About Me :
 
 ---
 ### 🛠 &nbsp;Languages and Tools :
