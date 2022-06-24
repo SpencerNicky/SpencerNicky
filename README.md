@@ -1,8 +1,8 @@
 <!--### Hi there 
 -->
 <div>
-  <img src="https://media.giphy.com/media/PNWEY2TLI7x6tktvQe/giphy.gif" width="50px" height="50px">
-  <img src="https://media.giphy.com/media/HqoGyd9OIi3uYBkd10/giphy.gif" width="50px" height="50px">
+  <img src="https://media.giphy.com/media/PNWEY2TLI7x6tktvQe/giphy.gif" width="200px" height="200px">
+  <img src="https://media.giphy.com/media/HqoGyd9OIi3uYBkd10/giphy.gif" width="200px" height="200px">
   </div>
 
 <!--
