@@ -7,6 +7,9 @@
 </div>
 
 ---
+### 👨‍💻_technologist: &nbsp;About Me :
+
+---
 ### 🛠 &nbsp;Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg"
@@ -26,7 +29,7 @@
 
 ---
 
-### 🔥 &nbsp;My Stats:
+### 🔥 &nbsp;My Stats :
 ![snicky's 42 stats](https://badge42.vercel.app/api/v2/cl4sfipmq002909k20uryn4lc/stats?cursusId=21&coalitionId=101)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencernicky&layout=compact&theme=vision-friendly-dark)
 
