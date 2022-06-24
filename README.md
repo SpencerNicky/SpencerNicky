@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/BBKevBJX1fkvam9rrW/giphy.gif" width="200px" height="200px">
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerNicky&theme=radical" alt="Top Langs">
 </div>
 
 <!--
