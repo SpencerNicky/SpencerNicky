@@ -13,7 +13,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on Codewars and read tech articles.
-- 📫 How to reach me: &nbsp; [![Telega URL](https://img.shields.io/twitter/url?label=telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fsnicky_pro)](https://t.me/snicky_pro) [![Gmail URL](https://img.shields.io/twitter/url?label=ruslanmacci%40gmail.com&logo=gmail&style=social&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3Dnew)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+- 📫 How to reach me: &nbsp; [![Telega URL](https://img.shields.io/twitter/url?label=telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fsnicky_pro)](https://t.me/snicky_pro) [![Gmail URL](https://img.shields.io/twitter/url?label=ruslanmacci%40gmail.com&logo=gmail&style=social&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3Dnew)](https://mail.google.com/mail/u/0/#inbox?compose=new) [![Vk URL](https://img.shields.io/twitter/url?label=Vkontakte&logo=vk&style=social&url=https%3A%2F%2Fvk.com%2Fmacci)](https://vk.com/macci)
 ---
 ### 🛠 &nbsp;Languages and Tools :
 <div>
@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp;My Stats :
 ![snicky's 42 stats](https://badge42.vercel.app/api/v2/cl4sfipmq002909k20uryn4lc/stats?cursusId=21&coalitionId=101)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencernicky&layout=compact&theme=vision-friendly-dark)
-![Codewars](https://www.codewars.com/users/spencernicky/badges/large/?viewBox="0,0,495,40")
+![Codewars](https://www.codewars.com/users/spe)
 
 ---
 
