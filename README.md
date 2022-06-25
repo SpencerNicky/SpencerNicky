@@ -13,7 +13,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; ![Twitter URL](https://img.shields.io/twitter/url?label=telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fsnicky_pro)
+- 📫 How to reach me: &nbsp; ![Twitter URL](https://img.shields.io/twitter/url?label=telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fsnicky_pro)(https://t.me/snicky_pro)
 ---
 ### 🛠 &nbsp;Languages and Tools :
 <div>
