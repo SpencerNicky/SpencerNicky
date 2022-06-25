@@ -13,7 +13,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on Codewars and read tech articles.
-- 📫 How to reach me: &nbsp; [![Telega URL](https://img.shields.io/twitter/url?label=telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fsnicky_pro)](https://t.me/snicky_pro); [![Twitter URL](https://img.shields.io/twitter/url?label=gmail&logo=gmail&style=social&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3Dnew)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+- 📫 How to reach me: &nbsp; [![Telega URL](https://img.shields.io/twitter/url?label=telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fsnicky_pro)](https://t.me/snicky_pro) [![Gmail URL](https://img.shields.io/twitter/url?label=ruslanmacci%40gmail.com&logo=gmail&style=social&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3Dnew)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 ---
 ### 🛠 &nbsp;Languages and Tools :
 <div>
