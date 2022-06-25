@@ -40,7 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔥 &nbsp;My Stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencernicky&layout=compact&theme=vision-friendly-white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencernicky&layout=compact&theme=vision-friendly-white)<br>
 ![Codewars](https://www.codewars.com/users/SpencerNicky/badges/large)
 ![snicky's 42 stats](https://badge42.vercel.app/api/v2/cl4sfipmq002909k20uryn4lc/stats?cursusId=21&coalitionId=101)
 
